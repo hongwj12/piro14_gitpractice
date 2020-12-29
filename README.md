@@ -3,3 +3,5 @@
 add readme file
 
 modify readme file
+
+modify at terminal
